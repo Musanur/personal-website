@@ -1,0 +1,128 @@
+body{
+    margin-left: 70px;
+    padding: 0px;
+    font-family: 'Lato', sans-serif;
+
+}
+h1{
+    font-size: 40px;
+    font-weight: bold;
+
+} 
+
+.helf-width{
+    width: 40%;
+    margin-left: 40px;
+    padding-left: 2%;
+    float: left;
+}
+.second-paragraph{
+    color: #ee478a;
+}
+.first-paragraph{
+    margin-bottom: 20px;
+}
+.third-paragraph{
+    width: 115%;
+    color: #808080;
+    margin-bottom: 40px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: #ee478a;
+    padding: 10px 25px;
+    color: white;
+    border-radius: 5px;
+}
+.img-one{
+    width: 90%;
+    height: 80%;
+    margin-top: 70px;
+}
+.header-text{
+    margin-left: 100px;
+    margin-top: 200px;
+}
+.top-banner{
+    background-image: url(img/header-bg-r.png);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.sceond-banner{
+    background-image: url(img/biography-bg.png);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-right: 60px;
+
+}
+.img-tow{
+    width: 90%;
+    height: 80%;
+    margin-top: 70px;
+    float: right;
+}
+.text-area-tow{
+    margin-top: 250px;
+    width: 92%;
+    margin-left: 15px;
+}
+.img-area img{
+    width: 370px;
+    padding-left: 2%;
+    margin-bottom: 200px;
+
+}
+.text{
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 50px;
+
+}
+span{            
+    text-align: center;
+    font-size: 15px;
+    color: #808080;
+
+}
+#text-tow{
+    width: 142px;
+    text-align: center;
+    margin-left: 565px;
+    margin-bottom: 50px;
+
+
+}
+#text-three{
+    width: 26%;
+    text-align: center;
+    margin-left: 480px;
+    font-size: 17px;
+
+}
+#text-four{
+    text-align: center;
+}
+#text-five{
+    text-align: center;
+}
+.fourth-banner{
+    background-image: url(img/footer-bg.png);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.text-six{
+    width: 470px;
+    background-color: deeppink;
+    padding:10px 81px;
+    border-radius: 26px;
+    margin-top: 70px;
+    margin-left: 315px;
+}
+footer{
+    text-align: center;
+    margin-top: 170px;
+    color: #808080;
+}
